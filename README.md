@@ -42,7 +42,24 @@
 * Data [Kaggle](https://www.kaggle.com/)
 
 
-## Useful commands
-```shell
+## Useful Python commands
 
+* Checking version
+```shell
+python --version 
+```
+
+* Install librairies
+```shell
+pip install {lib_name}=={lib_version} 
+```
+
+* Check all libs
+```shell
+pip freeze
+```
+
+* Uninstall all libs
+```shell
+pip uninstall -y -r <(pip freeze)
 ```
