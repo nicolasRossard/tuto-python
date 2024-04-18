@@ -1,4 +1,7 @@
+import sys
+
 import gradio as gr
+
 from src.tasks import greet
 
 
@@ -12,4 +15,5 @@ interface = gr.Interface(
 
 if __name__ == "__main__":
     print("hello world")
+    print(sys.path)
     interface.launch()
