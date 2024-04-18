@@ -16,9 +16,9 @@
 
 # Start your project
 
-- [ ] Prepare your repo [GIT](Docs/Git.md)
+- [ ] Prepare your repo [GIT](docs/Git.md)
 - [ ] Install your IDE (Pycharm, VSCode, Sublime etc.)
-- [ ] Create your [Python Environment](Docs/Virtual_environment.md) (Conda, pyenv etc.)
+- [ ] Create your [Python Environment](docs/Virtual_environment.md) (Conda, pyenv etc.)
 - [ ] Start your project :fire:
 
 # Plugins, libs or links interesting
@@ -49,10 +49,15 @@
 python --version 
 ```
 
-* Install librairies
+* Install libraries
 ```shell
 pip install {lib_name}=={lib_version} 
 ```
+
+```shell
+pip install -r requirements.txt
+```
+
 
 * Check all libs
 ```shell
