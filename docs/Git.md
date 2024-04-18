@@ -45,6 +45,11 @@ git checkout -b {branch name}
 git checkout {remote branch name}
 ```
 
+* Check modified files
+```shell
+git status
+```
+
 * Push code
 ```shell
 git diff {file_name}
