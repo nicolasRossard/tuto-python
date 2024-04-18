@@ -1,3 +1,6 @@
+# Project
+[Kaggle project](https://www.kaggle.com/code/mateoiglesias/nba-game/notebook)
+
 # Tasks
 
 - [ ] Environment virtual + IDE
@@ -15,3 +18,5 @@
 ## Data
 * [Kaggle](https://www.kaggle.com/)
 * [Mockaroo](https://www.mockaroo.com/)
+
+
