@@ -1,5 +1,5 @@
 import gradio as gr
-from tasks import greet
+from src.tasks import greet
 
 
 interface = gr.Interface(
