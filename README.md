@@ -35,6 +35,19 @@
 - [ ] Use notebook -> [fake_notebook/](fake_notebook/README.md)
 - [ ] Use IDE Pycharm -> [fake_project/](fake_project/README.md)
 
+## Start only one project
+On this repo you have two use cases :
+* A notebook
+* An application with gradio
+
+To start properly and save into your git
+* Git clone repo
+* Go to the directory (_fake\_{name}/_) of the project you want to do
+* Make commands to init [git](docs/Git.md) (check image second part)
+* Open your IDE and go to your directory (_fake\_{name}/_) 
+* Create your virtual environment and implement into your IDE
+* Install requirements
+
 
 ## Links
 * Good practices : [PEP 8](https://peps.python.org/pep-0008/) / typing / docstrings
