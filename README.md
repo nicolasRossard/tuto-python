@@ -68,3 +68,8 @@ pip freeze
 ```shell
 pip uninstall -y -r <(pip freeze)
 ```
+
+# Machine learning libraries
+
+* [scikit-learn](https://pypi.org/project/scikit-learn/)
+* [transformers](https://pypi.org/project/transformers/) [HuggingFace](https://huggingface.co/spaces)
