@@ -18,7 +18,7 @@
 
 - [ ] Prepare your repo [GIT](Docs/Git.md)
 - [ ] Install your IDE (Pycharm, VSCode, Sublime etc.)
-- [ ] Create your [Python Environment](docs/Virtual%20environment.md) (Conda, pyenv etc.)
+- [ ] Create your [Python Environment](Docs/Virtual_environment.md) (Conda, pyenv etc.)
 - [ ] Start your project :fire:
 
 # Plugins, libs or links interesting
