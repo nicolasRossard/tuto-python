@@ -37,7 +37,7 @@
 
 
 ## Links
-* Good practices : [PEP 8](https://peps.python.org/pep-0008/)
+* Good practices : [PEP 8](https://peps.python.org/pep-0008/) / typing / docstrings
 * Python Lessons with [Openclassroom](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
 * Data [Kaggle](https://www.kaggle.com/)
 
