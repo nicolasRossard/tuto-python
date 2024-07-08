@@ -7,7 +7,7 @@ from src.tasks import greet
 
 interface = gr.Interface(
     fn=greet,
-    inputs=gr.Textbox(label="Name"),
+    inputs=gr.Textbox(label="Nom"),
     outputs=gr.Textbox(),
     title="Simple Gradio App",
     description="Type your name and get greeted!"
@@ -16,4 +16,4 @@ interface = gr.Interface(
 if __name__ == "__main__":
     print("hello world")
     print(sys.path)
-    interface.launch()
+    interface.launch(share=True)
