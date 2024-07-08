@@ -35,6 +35,6 @@ if ! grep -Eq "^[#]{4}[[:space:]]pyenv[[:space:]]config$" "${HOME}/.bashrc" ; th
 source "${HOME}/.bashrc"
 ```
 
-* [Conda](https://pythonforundergradengineers.com/new-virtual-environment-with-conda.html)
+* [Conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 * lib poetry ?
